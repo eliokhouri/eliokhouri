@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eliokhouri
-- 👀 I’m interested in entrepreneurship, machine learning, automation
+- 👀 I’m interested in entrepreneurship, machine learning, data science and artificial intelligence 
 - 🌱 I’m currently completing my Master's Degree in Computer Science at Northeastern University
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me -> [LinkedIn](https://www.linkedin.com/in/eliokhouri/)
